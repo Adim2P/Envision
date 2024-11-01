@@ -1,6 +1,7 @@
 <div align="center">
 
 # Envsion - Cuztomizable AI Image Generation Tool
+## Envision is a fork of the program Invoke which is a creative engine built on top of Stable Diffusion, Envision houses more customizable features which allows users to complete control over resulting models.
 
 </div>
 
