@@ -1,14 +1,14 @@
 <div align="center">
 
 # Envsion - Cuztomizable AI Image Generation Tool
-## Envision is a fork of the program Invoke which is a creative engine built on top of Stable Diffusion, Envision houses more customizable features which allows users to complete control over resulting models.
+### Envision is a fork of the program Invoke which is a creative engine built on top of Stable Diffusion, Envision houses more customizable features which allows users to complete control over resulting models.
 
 </div>
 
 <div align="center">
 
 # Disclaimer
-## "This program uses the Invoke engine, which is the property of its respective owner(s). Invoke is a registered trademark and copyrighted material; all rights are reserved to the original copyright holder. This project does not claim ownership of Invoke or its affiliated intellectual property, nor does it intend to infringe on the rights of the copyright or trademark owner(s). The use of Invoke within this application is solely for its intended functionality and is used in accordance with applicable licenses."
+### "This program uses the Invoke engine, which is the property of its respective owner(s). Invoke is a registered trademark and copyrighted material; all rights are reserved to the original copyright holder. This project does not claim ownership of Invoke or its affiliated intellectual property, nor does it intend to infringe on the rights of the copyright or trademark owner(s). The use of Invoke within this application is solely for its intended functionality and is used in accordance with applicable licenses."
 
 </div>
 
