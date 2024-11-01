@@ -5,6 +5,13 @@
 
 </div>
 
+<div align="center">
+
+# Disclaimer
+## "This program uses the Invoke engine, which is the property of its respective owner(s). Invoke is a registered trademark and copyrighted material; all rights are reserved to the original copyright holder. This project does not claim ownership of Invoke or its affiliated intellectual property, nor does it intend to infringe on the rights of the copyright or trademark owner(s). The use of Invoke within this application is solely for its intended functionality and is used in accordance with applicable licenses."
+
+</div>
+
 # Documentation
 | **Quick Links**                                                                                                      | 
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -14,7 +21,7 @@
 
 ## Quick Start
 
-1. Download and unzip the installer from the bottom of the [latest release][latest release link].
+1. Download and unzip the installer from the bottom of the [latest release][latest  release link].
 2. Run the installer script.
 
    - **Windows**: Double-click on the `install.bat` script.
