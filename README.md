@@ -21,7 +21,7 @@
 
 ## Quick Start
 
-1. Download and unzip the installer from the bottom of the [latest release](https://github.com/Adim2P/Envision/releases/download/1.0/Envision.Installer.1.0.zip).
+1. Download and unzip the installer from the bottom of the [latest release](https://github.com/Adim2P/Envision/releases).
 2. Run the installer script.
 
    - **Windows**: Double-click on the `install.bat` script.
